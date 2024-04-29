@@ -4,7 +4,7 @@ Duomenų struktūros aprašas
 ##########################
 
 Čia rasite pilna duomenų struktūros aprašo (:term:`DSA`) lentelės specifikaciją.
-
+..
 :term:`Duomenų struktūros aprašas <DSA>` yra lentelė, kurią galima redaguoti
 skaičiuoklės pagalba. Lentelėje pateikiama informacija apie vieno ar kelių
 duomenų šaltinių struktūrą.
