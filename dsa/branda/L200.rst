@@ -5,6 +5,7 @@ Antras Brandos Lygis
 ====================
 
 **Struktūruota**
+----------------
 
 Duomenys kaupiami struktūruota, mašininiu būdu nuskaitoma forma, bet
 kokiu formatu. Užpildytas :data:`property.source` stulpelis.
