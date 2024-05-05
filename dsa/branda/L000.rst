@@ -12,7 +12,8 @@ portale. Užpildyta :data:`dataset` eilutė.
 Plačiau apie brandos lygio kėlimą skaitykite skyriuje :ref:`to-level-0`.
 
 **Pavyzdžiai**
- ========== =================== ====== Imone                                
+========== =================== ====== 
+Imone                                
 -------------------------------------
 imones_id  imones_pavadinimas  rusis 
 ========== =================== ======
