@@ -61,27 +61,27 @@ example
 
 Reikalavimas 1 (L101)
 ---------------------
-        - **Neaiški struktūra** - pirmu brandos lygiu žymimi duomenys, kuriuose
-          nėra aiškios struktūros, pavyzdžiui `ikurta` datos formatas nėra
-          vienodas, kiekviena data užrašyta vis kitokiu formatu.
+ **Neaiški struktūra** - pirmu brandos lygiu žymimi duomenys, kuriuose
+nėra aiškios struktūros, pavyzdžiui `ikurta` datos formatas nėra
+vienodas, kiekviena data užrašyta vis kitokiu formatu.
 
 .. _level102:
 
 Reikalavimas 2 (L102)
 ---------------------
-        - **Nėra vientisumo** - pirmu brandos lygiu žymimi duomenuys, kuruose
-          nėra vientisumo, pavyzdžiui `atstumas` užrašytas laikantis tam tikros
-          struktūros, tačiau skirtingais vienetais.
+**Nėra vientisumo** - pirmu brandos lygiu žymimi duomenuys, kuruose
+nėra vientisumo, pavyzdžiui `atstumas` užrašytas laikantis tam tikros
+struktūros, tačiau skirtingais vienetais.
 
 .. _level103:
 
 Reikalavimas 3 (L103)
 ---------------------
-        - **Neįmanomas jungimas** - pirmu brandos lygiu žymimi
-          duomenys, kurių neįmanoma arba sudėtinga sujungti. Pavyzdžiui
-          `Filialas` duomnų laukas `imone` naudoja tam tikrą identifikatorių,
-          kuris nesutampa nei su vienu iš `Imone` atributų, pagal kuriuose būtų
-          galima identifikuoti filialo įmonę.
+**Neįmanomas jungimas** - pirmu brandos lygiu žymimi
+duomenys, kurių neįmanoma arba sudėtinga sujungti. Pavyzdžiui
+`Filialas` duomnų laukas `imone` naudoja tam tikrą identifikatorių,
+kuris nesutampa nei su vienu iš `Imone` atributų, pagal kuriuose būtų
+galima identifikuoti filialo įmonę.
 
 
 
