@@ -1,7 +1,11 @@
 .. default-role:: literal
 .. _level3:
 
+Trečias Brandos Lygis
+=====================
+
 **Standartizuota**
+------------------
 
 Duomenys saugomi atviru, standartiniu formatu. Užpildytas
 :data:`property.type` stulpelis ir duomenys atitinka nurodytą tipą.
