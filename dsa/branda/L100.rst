@@ -57,7 +57,7 @@ Pirmas Brandos Lygis
         \           tel_nr                string                1
         == == == == ===================== ========= =========== =====
 
-.. level101:
+.. _level101:
 
 Reikalavimas 1 (L101)
 ---------------------
@@ -65,7 +65,7 @@ Reikalavimas 1 (L101)
           nėra aiškios struktūros, pavyzdžiui `ikurta` datos formatas nėra
           vienodas, kiekviena data užrašyta vis kitokiu formatu.
 
-.. level102:
+.. _level102:
 
 Reikalavimas 2 (L102)
 ---------------------
@@ -73,7 +73,7 @@ Reikalavimas 2 (L102)
           nėra vientisumo, pavyzdžiui `atstumas` užrašytas laikantis tam tikros
           struktūros, tačiau skirtingais vienetais.
 
-.. level103:
+.. _level103:
 
 Reikalavimas 3 (L103)
 ---------------------
