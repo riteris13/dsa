@@ -61,7 +61,7 @@ example
 
 Reikalavimas 1 (L101)
 ---------------------
- **Neaiški struktūra** - pirmu brandos lygiu žymimi duomenys, kuriuose
+**Neaiški struktūra** - pirmu brandos lygiu žymimi duomenys, kuriuose
 nėra aiškios struktūros, pavyzdžiui `ikurta` datos formatas nėra
 vienodas, kiekviena data užrašyta vis kitokiu formatu.
 
