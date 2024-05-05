@@ -12,6 +12,7 @@ portale. Užpildyta :data:`dataset` eilutė.
 Plačiau apie brandos lygio kėlimą skaitykite skyriuje :ref:`to-level-0`.
 
 **Pavyzdžiai**
+
 ========== =================== ====== 
 Imone                                
 -------------------------------------
@@ -49,21 +50,21 @@ example
 
 .. level001:
 
-Reikalavimas x (L001)
+Reikalavimas 1 (L001)
 ---------------------
 - **Duomenų nėra** - nuliniu brandos lygiu žymimi duomenys, kurių nėra,
   pavyzdžiui jei įmonės filialų duomenų niekas nefiksuoja.
   
 .. level002:
 
-Reikalavimas x (L002)
+Reikalavimas 2 (L002)
 ---------------------
 - **Duomenys nepublikuojami** - nuliniu brandos lygiu žymimi duomenys,
   kurie fiziškai egzistuoja, tačiau nėra publikuojami jokia forma.
   
 .. level003:
 
-Reikalavimas x (L003)
+Reikalavimas 3 (L003)
 ---------------------
 - **Ribojamas duomenų naudojimas** - nuliniu brandos lygiu žymimi
   duomenys, kuri yra prieinami, tačiau pagal tokias naudojimo sąlygas,
