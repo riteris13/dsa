@@ -80,6 +80,7 @@ Reikalavimas 1 (L301)
 
   - `Filialas` - nenurodytas pirminis raktas :data:`model.ref`
     stulpelyje.
+
 .. _level301:
 
 Reikalavimas 2 (L302)
@@ -90,6 +91,7 @@ Reikalavimas 2 (L302)
   :data:`property.ref` stulpelyje. Pavyzdžiui:
 
   - `atstumas` - nenurodyta, kokiais vienetais matuojamas atstumas.
+
 .. _level301:
 
 Reikalavimas 3 (L303)
@@ -101,6 +103,7 @@ Reikalavimas 3 (L303)
 
   - `ikurta` - nenurodytas datos tikslumas, turėtu būti `D` - vienos
     dienos tiksumas.
+
 .. _level301:
 
 Reikalavimas 4 (L304)
