@@ -5,6 +5,7 @@ Pirmas Brandos Lygis
 ====================
 
 **Publikuojama**
+----------------
 
 Duomenys publikuojami bet kokia forma. Užpildyta :data:`resource`
 eilutė.
