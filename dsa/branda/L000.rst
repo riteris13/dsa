@@ -5,6 +5,7 @@ Nulinis Brandos Lygis (L000)
 ============================
 
 **Nekaupiama**
+--------------
 
 Duomenys nekaupiami. Duomenų rinkinys užregistruotas atvirų duomenų
 portale. Užpildyta :data:`dataset` eilutė.
