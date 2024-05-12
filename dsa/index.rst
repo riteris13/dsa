@@ -25,7 +25,6 @@ duomenims (:term:`ADSA`) ir dar neatvertiems duomenims (:term:`ŠDSA`).
 .. toctree::
     :maxdepth: 2
 
-    keitimai
     modelis
     formatas
     dimensijos
@@ -39,3 +38,4 @@ duomenims (:term:`ADSA`) ir dar neatvertiems duomenims (:term:`ŠDSA`).
     zodynai
     formules
     savokos
+    keitimai
