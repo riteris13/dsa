@@ -90,3 +90,10 @@ linkcheck_ignore = [
     r'https://github.com/pyenv/pyenv/wiki#suggested-build-environment',
     r'https://e-seimas.lrs.lt/portal/.*',
 ]
+
+mermaid_init_js = """
+mermaid.initialize({
+    startOnLoad:true,
+    theme: 'neutral'
+});
+"""
