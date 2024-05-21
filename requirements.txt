@@ -69,11 +69,17 @@ sphinx==7.3.7
     #   pydata-sphinx-theme
     #   sphinx-autobuild
     #   sphinx-book-theme
+    #   sphinx-design
+    #   sphinx-examples
     #   sphinx-tabs
     #   sphinxcontrib-plantuml
 sphinx-autobuild==2024.4.16
     # via -r requirements.in
 sphinx-book-theme==1.1.2
+    # via -r requirements.in
+sphinx-design==0.5.0
+    # via sphinx-examples
+sphinx-examples==0.0.5
     # via -r requirements.in
 sphinx-tabs==3.4.5
     # via -r requirements.in
