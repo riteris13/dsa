@@ -34,6 +34,8 @@ author = 'Informacinės visuomenės plėtros komitetas'
 extensions = [
     'sphinx_tabs.tabs',
     'sphinxcontrib.mermaid',
+    'sphinx_copybutton',
+    'sphinx_examples',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

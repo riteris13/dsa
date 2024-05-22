@@ -69,6 +69,7 @@ sphinx==7.3.7
     #   pydata-sphinx-theme
     #   sphinx-autobuild
     #   sphinx-book-theme
+    #   sphinx-copybutton
     #   sphinx-design
     #   sphinx-examples
     #   sphinx-tabs
@@ -76,6 +77,8 @@ sphinx==7.3.7
 sphinx-autobuild==2024.4.16
     # via -r requirements.in
 sphinx-book-theme==1.1.2
+    # via -r requirements.in
+sphinx-copybutton==0.5.2
     # via -r requirements.in
 sphinx-design==0.5.0
     # via sphinx-examples

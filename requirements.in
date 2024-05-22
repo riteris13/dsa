@@ -5,3 +5,4 @@ sphinxcontrib-plantuml
 sphinx-book-theme
 sphinxcontrib-mermaid
 sphinx-examples
+sphinx-copybutton
