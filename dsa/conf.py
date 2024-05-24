@@ -21,9 +21,9 @@ from datetime import datetime
 
 _now = datetime.now().year
 
-project = 'Duomenų atvėrimo vadovas'
-copyright = f'2019-{_now}, Lietuvos atvirų duomenų naudotojų bendruomenė'
-author = 'Lietuvos atvirų duomenų naudotojų bendruomenė'
+project = 'Duomenų struktūros aprašo specifikacija'
+copyright = f'2019-{_now}, Informacinės visuomenės plėtros komitetas'
+author = 'Informacinės visuomenės plėtros komitetas'
 
 
 # -- General configuration ---------------------------------------------------
