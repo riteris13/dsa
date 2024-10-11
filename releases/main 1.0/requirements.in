@@ -1,0 +1,8 @@
+sphinx
+sphinx-autobuild
+sphinx-tabs
+sphinxcontrib-plantuml
+sphinx-book-theme
+sphinxcontrib-mermaid
+sphinx-examples
+sphinx-copybutton
