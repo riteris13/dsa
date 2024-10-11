@@ -41,7 +41,8 @@ jobs:
       - name: Install dependencies
         run: python3 -m pip install -r ./requirements.txt
 
-      - run: sphinx-build -b html dsa build -c .
+      - name: Build
+        run: sphinx-build -b html dsa build -c . & sphinx-build -b html releases/v1.0/dsa build/v1.0 -c .
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
