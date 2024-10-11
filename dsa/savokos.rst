@@ -711,7 +711,7 @@ Sąvokos
         duomenų šaltinio <pirminis duomenų šaltinis>` duomenų struktūra.
 
     VSSA
-        `Valstybės skaitmeninių sprendimų agentūra <https://ivpk.lrv.lt/>`_.
+        `Valstybės skaitmeninių sprendimų agentūra <https://vssa.lrv.lt/>`_.
 
     VIIVĮ
         `Valstybės informacinių išteklių valdymo įstatymas <viivį_>`_.

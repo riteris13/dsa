@@ -662,6 +662,10 @@ Sąvokos
 
         .. _Resource Description Framework: https://en.wikipedia.org/wiki/Resource_Description_Framework
 
-    IVPK
-        `Informacinės visuomenės plėtros komitetas
-        <https://ivpk.lrv.lt/lt/atviri-duomenys-1>`_.
+    VSSA
+        `Valstybės skaitmeninių sprendimų agentūra <https://vssa.lrv.lt/>`_.
+
+    VIIVĮ
+        `Valstybės informacinių išteklių valdymo įstatymas <viivį_>`_.
+
+        .. _viivį: https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.415499/asr

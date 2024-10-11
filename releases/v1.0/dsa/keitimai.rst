@@ -5,7 +5,12 @@
 Keitimų istorija
 ################
 
-0.2.0 (neišleista)
+1.1.0 (neišleista)
+******************
+
+- Pridėtos `select()`, `expand()`, `include()` ir `exclude()` funkcijos.
+
+1.0.0 (2024-10-11)
 ******************
 
 - Panaikinta :ref:`base` dimensija, baziniai modeliai perkeliami į
